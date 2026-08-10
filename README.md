@@ -108,5 +108,3 @@ From the analysis I completed so far:
 **Samira Nichols and Saina Abolmaali**
 *Enhancing COVID-19 Case Forecasting in the United States: A Comparative Analysis of ARIMA, SARIMA, and RNN Models with Grid Search Optimization*
 medRxiv, 2024
-DOI: `10.1101/2024.03.04.24303713`
-"# covid-timeseries-analysis" 
